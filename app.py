@@ -1,6 +1,11 @@
 import streamlit as st
 import pandas as pd
 import joblib
+streamlit
+pandas
+scikit-learn
+joblib
+xgboost
 
 st.set_page_config(page_title="توقع الإيجار في قطر", layout="wide")
 
